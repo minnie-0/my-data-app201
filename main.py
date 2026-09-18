@@ -1,4 +1,4 @@
-```python
+
 # 어제의 박스오피스 — KOBIS 일별 박스오피스 API
 
 import datetime
@@ -328,12 +328,3 @@ st.bar_chart(
 st.caption(
     "데이터 출처: 영화진흥위원회(KOBIS) 일일 박스오피스 Open API"
 )
-```
-
-### `requirements.txt`
-
-```text
-streamlit
-pandas
-requests
-```
